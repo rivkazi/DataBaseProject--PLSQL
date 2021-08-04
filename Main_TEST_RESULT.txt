@@ -1,0 +1,65 @@
+####################### EXAMPLE FOR MAIN PROCEDURE #######################
+
+************************************************
+               Graduate Procedure               
+************************************************
+Open day number 70added successfuly
+Guest Lecture number 50added successfuly
+All students added successfuly
+------------------------------------------------
+
+
+************************************************
+              Top Guides Procedure              
+************************************************
+Open day number 72added successfuly
+Tour number 30 added successfuly
+The Number Of guides found fit to the condition is: 23
+They all added successfuly
+------------------------------------------------
+
+
+************************************************
+           Degree Occupation Function           
+************************************************
+For this degree, Mathematics, The occupation of students in Popko University is: .105%
+For this degree, Medical Nurses, The occupation of students in Popko University is: .088%
+For this degree, Science Computing, The occupation of students in Popko University is: .004%
+For this degree, Computer Science'' Software En, The occupation of students in Popko University is: .104%
+For this degree, Buisness, The occupation of students in Popko University is: .001%
+For this degree, Buisness Administration, The occupation of students in Popko University is: .127%
+For this degree, Bioinformatics, The occupation of students in Popko University is: .108%
+For this degree, Life Science, The occupation of students in Popko University is: .001%
+For this degree, Industrial& Management, The occupation of students in Popko University is: .112%
+For this degree, Software Engineering, The occupation of students in Popko University is: .004%
+For this degree, Pharmacy, The occupation of students in Popko University is: .114%
+For this degree, Accounting, The occupation of students in Popko University is: .111%
+For this degree, Physics, The occupation of students in Popko University is: .12%
+------------------------------------------------
+
+
+************************************************
+             Company Tour Function              
+************************************************
+Company number 5:  does not exists or there is no tour for it
+Company number 6:  does not exists or there is no tour for it
+Company number 7:  This company had a tour number: 15 at 21/9
+Company number 8:  This company had a tour number: 1 at 14/7
+Company number 9:  does not exists or there is no tour for it
+Company number 10:  does not exists or there is no tour for it
+Company number 11:  does not exists or there is no tour for it
+Company number 12:  does not exists or there is no tour for it
+Company number 13:  does not exists or there is no tour for it
+Company number 14:  does not exists or there is no tour for it
+Company number 15:  does not exists or there is no tour for it
+Company number 16:  This company had a tour number: 7 at 27/6
+Company number 17:  does not exists or there is no tour for it
+Company number 18:  does not exists or there is no tour for it
+Company number 19:  does not exists or there is no tour for it
+Company number 20:  does not exists or there is no tour for it
+Company number 21:  does not exists or there is no tour for it
+Company number 22:  This company had a tour number: 14 at 5/1
+Company number 23:  This company had a tour number: 9 at 22/3
+Company number 24:  does not exists or there is no tour for it
+------------------------------------------------
+
