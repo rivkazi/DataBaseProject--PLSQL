@@ -1,0 +1,11 @@
+drop table tourat;
+drop table participantin;
+drop table guestlectures;
+drop table opendays;
+drop table locatedat;
+drop table company;
+drop table consulting;
+drop table guide;
+drop table student;
+drop table person;
+drop table adress;
