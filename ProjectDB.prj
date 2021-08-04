@@ -1,0 +1,110 @@
+PL/SQL Developer Project
+
+[Options]
+AutoConnect=0
+Username=
+Password=2544
+Database=
+ConnectAs=
+Edition=
+Workspace=
+HaltAfterError=0
+BrowseHistory=0
+FileBrowser=0
+BeautfierRulesFile=
+VersionControl=0
+VersionControlPath=
+ShowItems=-1
+
+[History]
+Programs=C:\Users\zizovirivka\Desktop\Studies\Mini Project DataBases\Level3\PartB
+SQL Scripts=C:\Users\zizovirivka\Desktop\Studies\Mini Project DataBases\Level3\PartB
+Report Files=C:\Users\zizovirivka\Desktop\Studies\Mini Project DataBases\Level3
+Test Scripts=C:\Users\zizovirivka\Desktop\Studies\Mini Project DataBases\Level3\PartB
+Command Scripts=
+Diagram Files=C:\Users\zizovirivka\Desktop\Studies\Mini Project DataBases\Level2
+
+[BrowserFolders]
+
+
+[Groups]
+TablesFunctions=22,23,24,25,
+Queries=26,32,61,
+BackUp=31,63,
+Charts=53,54,55,56,57,58,59,60,
+General=33,34,35,36,37,
+Integrated=27,28,29,30,38,
+Procedures=39,40,41,42,43,44,52,
+Functions=45,46,47,62,
+Triggers=48,49,50,51,
+Insert=0,1,2,3,4,5,6,7,8,9,10,
+DataGenerator=11,12,13,14,15,16,17,18,19,20,21,
+
+[Files]
+4,0,,,Level1\PartB\INSERTALL\INSERTALL\AdressDG.sql
+4,0,,,Level1\PartB\INSERTALL\INSERTALL\CompanyDG.sql
+4,0,,,Level1\PartB\INSERTALL\INSERTALL\ConsultingDG.sql
+4,0,,,Level1\PartB\INSERTALL\INSERTALL\GuestLecturesDG.sql
+4,0,,,Level1\PartB\INSERTALL\INSERTALL\GuideDG.sql
+4,0,,,Level1\PartB\INSERTALL\INSERTALL\LocatedAtDG.sql
+4,0,,,Level1\PartB\INSERTALL\INSERTALL\OpenDaysDG.sql
+4,0,,,Level1\PartB\INSERTALL\INSERTALL\ParticipantInDG.sql
+4,0,,,Level1\PartB\INSERTALL\INSERTALL\PersonDG.sql
+4,0,,,Level1\PartB\INSERTALL\INSERTALL\StudentDG.sql
+4,0,,,Level1\PartB\INSERTALL\INSERTALL\TourAtDG.sql
+8,0,,,Level1\PartB\DGALL\DGALL\AdressDGenerator.gd
+8,0,,,Level1\PartB\DGALL\DGALL\CompanyDGenerator.gd
+8,0,,,Level1\PartB\DGALL\DGALL\ConsultingDGenerator.gd
+8,0,,,Level1\PartB\DGALL\DGALL\GuestLecturesDGenerator.gd
+8,0,,,Level1\PartB\DGALL\DGALL\GuideDGenerator.gd
+8,0,,,Level1\PartB\DGALL\DGALL\LocatedAtDGenerator.gd
+8,0,,,Level1\PartB\DGALL\DGALL\OpenDaysDGenerator.gd
+8,0,,,Level1\PartB\DGALL\DGALL\ParticipantInDGenerator.gd
+8,0,,,Level1\PartB\DGALL\DGALL\PersonDGenerator.gd
+8,0,,,Level1\PartB\DGALL\DGALL\StudentDGenerator.gd
+8,0,,,Level1\PartB\DGALL\DGALL\TourAtDGenerator.gd
+1,0,,,Level1\PartB\CREATETABLE.sql
+1,0,,,Level1\PartB\DROP.sql
+4,0,,,BackUp.sql
+1,0,,,SHOW.sql
+1,0,,,Level1\PartC\QUERIES.sql
+1,0,,,Level2\Level2\integration.sql
+1,0,,,Level2\Level2\FirstUnitCreateTable.sql
+1,0,,,Level2\Level2\FirstUnitDrop.sql
+1,0,,,Level2\Level2\FirstUnitShow.sql
+4,0,,,Level2\Level2\IntegratedBackUp.sql
+1,0,,,Level2\Level2\integratedQueries.sql
+1,0,,,Level2\Level2\constraints.sql
+1,0,,,Level2\Level2\CreateUser.sql
+1,0,,,Level2\Level2\Grant& Revoke.sql
+1,0,,,Level2\Level2\INDEXES.sql
+1,0,,,Level2\Level2\VIEWES.sql
+10,0,,,Level2\Level2\FirstUnitDiagram.pdd
+3,0,,,Level3\Procedure_Function_Trigger\GraduatesProcedure.prc
+2,0,,,Level3\Procedure_Function_Trigger\GraduatesProcedure_TEST.tst
+3,0,,,Level3\Procedure_Function_Trigger\Main.prc
+2,0,,,Level3\Procedure_Function_Trigger\Main_TEST.tst
+3,0,,,Level3\Procedure_Function_Trigger\TopGuidesProcedure.prc
+2,0,,,Level3\Procedure_Function_Trigger\TopGuidesProcedure_TEST.tst
+3,0,,,Level3\Procedure_Function_Trigger\CompanyTour.fnc
+3,0,,,Level3\Procedure_Function_Trigger\DegreeOccupation.fnc
+2,0,,,Level3\Procedure_Function_Trigger\DegreeOccupation_TEST.tst
+3,0,,,Level3\Procedure_Function_Trigger\guideMeeting_Tracking.trg
+1,0,,,Level3\Procedure_Function_Trigger\guideMeeting_Tracking_TEST.sql
+3,0,,,Level3\Procedure_Function_Trigger\participantIn_Control.trg
+1,0,,,Level3\Procedure_Function_Trigger\participantIn_Control_TEST.sql
+0,0,,,Level3\Procedure_Function_Trigger\Main_TEST_RESULT.txt
+0,0,,,Level3\Report&Graphs\Distribution Of Birth YearsGraph.bmp
+0,0,,,Level3\Report&Graphs\Distribution Of Birth YearsGraph.tee
+0,0,,,Level3\Report&Graphs\Occupancy In Lectures.pdf
+6,0,,,Level3\Report&Graphs\Occupancy In Lectures.rep
+6,0,,,Level3\Report&Graphs\OccupancyGraph.rep
+0,0,,,Level3\Report&Graphs\OccupancyGraph.tee
+0,0,,,Level3\Report&Graphs\Distribution of Birth Years.pdf
+6,0,,,Level3\Report&Graphs\Distribution of Birth Years.rep
+1,0,,,Level3\ParametersQueries.sql
+2,0,,,Level3\Procedure_Function_Trigger\CompanyTour_TEST.tst
+4,4,,,BackUpAll.sql
+0,0,,,ProjectDB.prj
+
+[Notes]
