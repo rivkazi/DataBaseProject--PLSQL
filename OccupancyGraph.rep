@@ -1,0 +1,128 @@
+PL/SQL Developer Report
+
+[SQL]
+SELECT subject, SUM(numparticipants) AS Occupancy  
+FROM opendays NATURAL JOIN guestlectures
+GROUP BY subject;
+
+[Options]
+Connect=False
+Username=
+Password=2864
+Database=
+ConnectAs=
+LockMode=0
+LockedPassword=2250
+BkgColor=-16777211
+BkgImage=
+FormLayout=False
+OnlyNBSP=False
+LeftMargin=0
+TopMargin=0
+PageBreak=0
+AddSQL=False
+HandleTags=True
+
+[Styles]
+
+{Title}
+Enabled=True
+Name=Report Title
+Description=Occupancy
+Style=Blue Table
+HeaderStyle=
+Align=3
+Break=0
+Function=0
+Format=
+
+{Param}
+Enabled=True
+Name=Variables
+Description=
+Style=Blue Table
+HeaderStyle=
+Align=0
+Break=0
+Function=0
+Format=
+
+{Table}
+Enabled=False
+Name=Tabular Tables
+Description=
+Style=
+HeaderStyle=
+Align=0
+Break=0
+Function=0
+Format=
+
+{Form}
+Enabled=False
+Name=Form Tables
+Description=
+Style=
+HeaderStyle=
+Align=0
+Break=0
+Function=0
+Format=
+
+{Field}
+Enabled=False
+Name=Default Field
+Description=
+Style=
+HeaderStyle=
+Align=0
+Break=0
+Function=0
+Format=
+
+{*}
+Enabled=True
+Name=SUBJECT
+Description=
+Style=Default Tabular Tables
+HeaderStyle=
+Align=0
+Break=0
+Function=0
+Format=
+
+{*}
+Enabled=True
+Name=OCCUPANCY
+Description=
+Style=Blue Form
+HeaderStyle=
+Align=2
+Break=0
+Function=0
+Format=
+
+
+
+[CSS]
+Blue Table
+{
+  Background: #5050A0;
+  Border-style: None;
+  Width: 100%;
+}
+
+Default Tabular Tables
+{
+  Color: #000000;
+  Border-style: None;
+  Width: 100%;
+}
+
+Blue Form
+{
+  Background: #5050A0;
+  Border-style: None;
+}
+
+
